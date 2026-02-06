@@ -20,19 +20,6 @@ Sou desenvolvedor com foco em **Full Stack**, obcecado por evolução técnica, 
 Escrevi minhas primeiras linhas de código aos 15 anos, quando queria criar um bot para um servidor privado de discord que adorava na época. Depois de muita pesquisa, consegui colocá-lo online, e a sensação foi mágica. Percebi que eu podia personalizar qualquer coisa apenas escrevendo código. Esse momento mudou tudo para mim: eu sabia que queria me tornar desenvolvedor.
 
 Desde então, sigo profundamente apaixonado por programação e busco constantemente aprender mais e me tornar um profissional melhor a cada dia.
-<h2>🎯 &nbsp;O que estou buscando agora</h2>
-
-- Evoluir tecnicamente todos os dias  
-- Construir projetos reais (não tutoriais descartáveis)  
-- Dominar fundamentos de arquitetura, performance e boas práticas  
-- Me preparar para atuar em times de alto nível  
-
-<h2>📚 &nbsp;O que você vai encontrar aqui</h2>
-
-- Projetos próprios  
-- Experimentos técnicos  
-- Estudos de arquitetura e organização de código  
-- Evolução real (commits contam histórias)  
 
 <h2>🛠 &nbsp;Tecnologias que utilizo e estudo</h2>
 
@@ -56,7 +43,7 @@ Desde então, sigo profundamente apaixonado por programação e busco constantem
 <h2>🚀 &nbsp;GitHub</h2>
 
 <p>
-Aqui você vai ver meu progresso real. Sem maquiagem.
+Aqui você vai ver meu progresso real.
 </p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mascarenhasjp&show_icons=true&theme=dracula)
