@@ -1,4 +1,4 @@
-<h1>🌎 &nbsp;I am jp!®</h1>
+<h1>🌎® &nbsp;I am Jp!</h1>
 
 
 <p align="center">
@@ -13,7 +13,7 @@
   </a>
 </p>
 
-<h2>👨🏻‍💻 &nbsp;about me</h2>
+<h2>👨🏻‍💻 &nbsp;About me</h2>
 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
