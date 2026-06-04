@@ -1,4 +1,4 @@
-<h1>🌎® &nbsp;I am Jp!</h1>
+<h1>I am Jp!</h1>
 
 
 <p align="center">
